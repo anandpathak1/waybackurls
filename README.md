@@ -8,5 +8,5 @@ cat domains.txt | waybackurls > urls
 
 Install:
 
-go install github.com/anandpathak1/waybackurls@latest
+go install github.com/anandpathak1/waybackurls-2024@latest
 
