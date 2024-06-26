@@ -7,6 +7,6 @@ Usage example:
 cat domains.txt | waybackurls > urls
 
 Install:
-
+```bash
 go install github.com/anandpathak1/waybackurls-2024@latest
-
+```
